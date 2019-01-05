@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <graph id="n0_pdoa" name="n0" xy="0,0" size="750,1334" type="rect" lineColor="#80000000" fillColor="#80333333"/>
+    <movieclip id="n1_pdoa" name="n1" src="pdoa13" fileName="wait.jta" xy="338,632"/>
+  </displayList>
+</component>

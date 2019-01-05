@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2vp6royg" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="sy980" name="EndWnd.xml" path="/"/>
+    <component id="pdoa1" name="ShareWnd.xml" path="/"/>
+  </resources>
+  <publish name="EndWnd"/>
+</packageDescription>

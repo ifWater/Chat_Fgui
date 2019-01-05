@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,120">
+  <displayList>
+    <component id="n2_pdoa" name="n2" src="pdoax" fileName="headIcon.xml" xy="601,7"/>
+    <richtext id="n1_cqnz" name="n1" xy="237,34" size="319,54" fontSize="45" autoSize="height" text="sssssssssssss"/>
+  </displayList>
+  <relation target="n1_cqnz" sidePair="height-height"/>
+</component>

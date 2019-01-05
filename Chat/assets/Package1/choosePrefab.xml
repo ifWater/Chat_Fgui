@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="119,40" extention="Button">
+  <displayList>
+    <text id="n3_hcy6" name="n3" xy="35,6" size="49,27" fontSize="20" text="6666"/>
+    <image id="n5_s6a2" name="n5" src="s6a2b" fileName="line.png" xy="20,36"/>
+  </displayList>
+  <Button/>
+</component>

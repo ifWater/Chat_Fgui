@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="61,61" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n3_cqnz" name="n3" src="cqnzh" fileName="SS.png" xy="0,0"/>
+  </displayList>
+  <Button/>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://qds4urarcqnz0">
+  <displayList>
+    <image id="n6_cqnz" name="n6" src="cqnzf" fileName="bg.png" xy="0,0"/>
+    <component id="n3_cqnz" name="n3" src="cqnz3" fileName="clickBtn.xml" xy="655,1261"/>
+    <text id="n4_cqnz" name="n4" xy="226,1272" size="291,40" input="true" prompt="输入自己的名字" maxLength="8" fontSize="12" autoSize="none" text=""/>
+    <list id="n5_cqnz" name="n5" xy="15,113" size="720,1130" overflow="scroll"/>
+    <image id="n7_cqnz" name="n7" src="cqnzj" fileName="FH.png" xy="37,37"/>
+    <image id="n9_cqnz" name="n9" src="cqnzk" fileName="KK.png" xy="182,1264"/>
+    <image id="n10_cqnz" name="n10" src="cqnzl" fileName="LINE.png" xy="0,1251"/>
+    <component id="n11_cqnz" name="n11" src="cqnzn" fileName="addBtn.xml" xy="34,1262"/>
+    <image id="n12_cqnz" name="n12" src="cqnzg" fileName="logo.png" xy="324,18"/>
+  </displayList>
+</component>

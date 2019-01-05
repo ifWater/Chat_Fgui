@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="qds4urar" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="cqnz0" name="XX.jpg" path="/"/>
+    <image id="ri3v8" name="25.png" path="/"/>
+    <image id="ri3va" name="b.png" path="/"/>
+    <image id="ri3vb" name="c.png" path="/"/>
+    <image id="ri3vc" name="d.png" path="/"/>
+    <image id="ri3vd" name="e.png" path="/"/>
+    <image id="ri3ve" name="f.png" path="/"/>
+    <image id="ri3vf" name="g.png" path="/"/>
+    <image id="ri3vg" name="h.png" path="/"/>
+    <image id="ri3vh" name="i.png" path="/"/>
+    <image id="ri3vi" name="j.png" path="/"/>
+    <image id="ri3vj" name="k.png" path="/"/>
+    <image id="ri3vk" name="l.png" path="/"/>
+    <image id="ri3vl" name="m.png" path="/"/>
+    <image id="ri3vm" name="14.png" path="/"/>
+    <image id="ri3vn" name="15.png" path="/"/>
+    <image id="ri3vo" name="16.png" path="/"/>
+    <image id="ri3vp" name="17.png" path="/"/>
+    <image id="ri3vq" name="18.png" path="/"/>
+    <image id="ri3vr" name="19.png" path="/"/>
+    <image id="ri3vs" name="20.png" path="/"/>
+    <image id="ri3vt" name="21.png" path="/"/>
+    <image id="ri3vu" name="22.png" path="/"/>
+    <image id="ri3vv" name="23.png" path="/"/>
+    <image id="ri3vw" name="24.png" path="/"/>
+  </resources>
+  <publish name="Design"/>
+</packageDescription>

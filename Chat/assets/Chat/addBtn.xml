@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="61,61" extention="Button">
+  <displayList>
+    <image id="n0_cqnz" name="n0" src="cqnzi" fileName="JIA.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <Button/>
+</component>

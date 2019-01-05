@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2173kvu5" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="sy980" name="StartWnd.xml" path="/" exported="true"/>
+    <image id="sy981" name="start.png" path="/" exported="true"/>
+    <movieclip id="pdoa13" name="wait.jta" path="/" exported="true"/>
+    <component id="pdoa2" name="WaitWnd.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="StartWnd"/>
+</packageDescription>

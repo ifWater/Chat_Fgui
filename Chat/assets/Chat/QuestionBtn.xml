@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,60" extention="Button">
+  <controller name="btn" pages="0,up,1,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n8_sy98" name="n8" src="sy98r" fileName="QES_OUT.png" xy="0,0" size="500,60">
+      <gearDisplay controller="btn" pages="0"/>
+    </image>
+    <image id="n11_sy98" name="n11" src="sy98q" fileName="QES_IN.png" xy="-1,1" size="500,60">
+      <gearDisplay controller="btn" pages="1"/>
+    </image>
+    <text id="n6_cqnz" name="n6" xy="17,5" size="340,51" fontSize="30" vAlign="middle" autoSize="none" text="ssssssssss"/>
+    <image id="n7_cqnz" name="n7" src="cqnzo" fileName="gg.png" xy="439,15">
+      <gearDisplay controller="btn" pages="1"/>
+    </image>
+    <image id="n10_sy98" name="n10" src="sy98s" fileName="QUE_OUTP.png" xy="439,15">
+      <gearDisplay controller="btn" pages="0"/>
+    </image>
+  </displayList>
+  <Button/>
+</component>

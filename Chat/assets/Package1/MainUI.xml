@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="pageCtr" pages="" selected="-1"/>
+  <displayList>
+    <loader id="n11_hcy6" name="n11" xy="-1,0" size="750,1334" url="ui://0kbw6g7gs6a2c">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <list id="n0_hcy6" name="n0" xy="0,299" size="750,1033" pageController="pageCtr" layout="pagination" overflow="scroll" scroll="horizontal" scrollBarFlags="8" defaultItem="ui://0kbw6g7ghcy65" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n8_hcy6" name="n8" xy="0,216" size="751,74" layout="row" overflow="scroll" scroll="horizontal" margin="17,0,26,0" colGap="15" defaultItem="ui://0kbw6g7ghcy68">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <loader id="n13_s6a2" name="n13" xy="38,126" size="673,65" url="ui://0kbw6g7gs6a2a"/>
+    <image id="n12_s6a2" name="n12" src="s6a2d" fileName="fdj.png" xy="64,146"/>
+    <image id="n14_s6a2" name="n14" src="s6a2f" fileName="Search.png" xy="584,149"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" tween="true" startValue="0.5" endValue="1" duration="24" ease="Linear"/>
+    <item time="0" type="XY" tween="true" startValue="757,0" endValue="0,0" duration="24" ease="Linear"/>
+    <item time="24" type="Alpha" tween="true" startValue="1" ease="Linear"/>
+    <item time="24" type="XY" tween="true" startValue="0,0" ease="Linear"/>
+  </transition>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,452">
+  <displayList>
+    <image id="n3_sy98" name="n3" src="sy98p" fileName="QES_Bg.png" xy="155,110" size="530,345">
+      <relation target="n1_cqnz" sidePair="bottomext-bottom"/>
+    </image>
+    <component id="n4_pdoa" name="n4" src="pdoax" fileName="headIcon.xml" xy="18,11"/>
+    <list id="n1_cqnz" name="n1" xy="153,111" size="530,341" margin="15,0,12,0" lineGap="20" defaultItem="ui://qyikjfyocqnz8" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n2_cqnz" name="n2" xy="172,22" size="465,83" fontSize="30" autoSize="none" text="HelloWord"/>
+  </displayList>
+  <relation target="n1_cqnz" sidePair="bottomext-bottom"/>
+</component>

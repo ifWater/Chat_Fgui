@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,50" extention="Button">
+  <displayList>
+    <text id="n0_s6a2" name="n0" xy="398,4" size="248,44" fontSize="30" align="center" vAlign="middle" autoSize="none" text="重新回答上一题>"/>
+  </displayList>
+  <Button/>
+</component>

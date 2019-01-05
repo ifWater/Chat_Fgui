@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,50">
+  <controller name="pull" pages="0,,1,,2,,3,,4," selected="0"/>
+  <displayList>
+    <image id="n7_lrsk" name="n7" src="lrskn" fileName="c1617c2cf7f9692a2deb176e0eea0fbf.png" xy="295,8" pivot="0.5,0.5" group="n10_lrsk">
+      <gearDisplay controller="pull" pages="2"/>
+    </image>
+    <image id="n8_lrsk" name="n8" src="lrskm" fileName="Loading.png" xy="372,12" group="n10_lrsk">
+      <gearDisplay controller="pull" pages="2"/>
+    </image>
+    <group id="n10_lrsk" name="n10" xy="295,8" size="160,33" group="n12_lrsk"/>
+    <image id="n11_lrsk" name="n11" src="lrskp" fileName="up.png" xy="257,12" group="n12_lrsk">
+      <gearDisplay controller="pull" pages="0"/>
+    </image>
+    <image id="n13_lrsk" name="n13" src="lrsko" fileName="re.png" xy="253,14" group="n12_lrsk">
+      <gearDisplay controller="pull" pages="1"/>
+    </image>
+    <group id="n12_lrsk" name="n12" xy="253,8" size="244,33" advanced="true">
+      <gearDisplay controller="pull" pages="0,1,2"/>
+    </group>
+    <image id="n14_lrsk" name="n14" src="lrskj" fileName="Refreshcompleted.png" xy="271,12" group="n16_lrsk">
+      <gearDisplay controller="pull" pages="3"/>
+    </image>
+    <image id="n15_lrsk" name="n15" src="lrskq" fileName="Theend.png" xy="330,15" group="n16_lrsk">
+      <gearDisplay controller="pull" pages="4"/>
+    </image>
+    <group id="n16_lrsk" name="n16" xy="271,12" size="208,26" advanced="true" collapsed="true">
+      <gearDisplay controller="pull" pages="3,4"/>
+    </group>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n7_lrsk" tween="true" startValue="0" endValue="360" duration="24" ease="Linear"/>
+    <item time="24" type="Rotation" target="n7_lrsk" tween="true" startValue="360" ease="Linear"/>
+  </transition>
+</component>
