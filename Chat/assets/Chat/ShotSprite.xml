@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,69">
+  <displayList>
+    <component id="n4_pdoa" name="n4" src="pdoax" fileName="headIcon.xml" xy="30,9"/>
+    <loader id="n1_cqnz" name="n1" xy="243,19" size="50,30" fill="scaleFree" shrinkOnly="true"/>
+    <loader id="n5_up9t" name="n5" xy="243,19" size="50,30">
+      <relation target="n1_cqnz" sidePair="height-height,width-width"/>
+    </loader>
+  </displayList>
+  <relation target="n1_cqnz" sidePair="bottomext-bottom"/>
+</component>

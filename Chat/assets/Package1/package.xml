@@ -20,6 +20,8 @@
     <image id="lrskp" name="up.png" path="/" exported="true"/>
     <image id="lrskq" name="Theend.png" path="/" exported="true"/>
     <image id="s6a2f" name="Search.png" path="/" exported="true"/>
+    <component id="h8hgr" name="SearchEndWnd.xml" path="/" exported="true"/>
+    <image id="up9ts" name="FH.png" path="/" exported="true"/>
   </resources>
   <publish name="Package1"/>
 </packageDescription>

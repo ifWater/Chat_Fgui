@@ -5,7 +5,7 @@
     <component id="n3_cqnz" name="n3" src="cqnz3" fileName="clickBtn.xml" xy="655,1261"/>
     <text id="n4_cqnz" name="n4" xy="226,1272" size="291,40" input="true" prompt="输入自己的名字" maxLength="8" fontSize="12" autoSize="none" text=""/>
     <list id="n5_cqnz" name="n5" xy="15,113" size="720,1130" overflow="scroll"/>
-    <image id="n7_cqnz" name="n7" src="cqnzj" fileName="FH.png" xy="37,37"/>
+    <loader id="n7_cqnz" name="n7" xy="37,37" size="15,28" url="ui://qyikjfyocqnzj"/>
     <image id="n9_cqnz" name="n9" src="cqnzk" fileName="KK.png" xy="182,1264"/>
     <image id="n10_cqnz" name="n10" src="cqnzl" fileName="LINE.png" xy="0,1251"/>
     <component id="n11_cqnz" name="n11" src="cqnzn" fileName="addBtn.xml" xy="34,1262"/>

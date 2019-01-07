@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n11_hcy6" name="n11" xy="-1,0" size="750,1334" url="ui://0kbw6g7gs6a2c"/>
+    <list id="n22_h8hg" name="n22" xy="0,292" size="749,1033" layout="flow_hz" overflow="scroll" margin="7,0,10,0" ptrRes=",ui://0kbw6g7glrskg" lineGap="19" colGap="20" defaultItem="ui://0kbw6g7ghcy67" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <loader id="n23_up9t" name="n23" xy="43,140" size="673,65" url="ui://0kbw6g7gs6a2a"/>
+    <image id="n24_up9t" name="n24" src="s6a2d" fileName="fdj.png" xy="69,160"/>
+    <image id="n25_up9t" name="n25" src="s6a2f" fileName="Search.png" xy="589,163"/>
+    <loader id="n26_up9t" name="n26" xy="34,31" size="15,28" url="ui://0kbw6g7gup9ts"/>
+  </displayList>
+</component>

@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="750,1334"/>
+<component size="750,1334">
+  <displayList>
+    <loader id="n1_up9t" name="n1" xy="0,0" size="750,1334"/>
+    <loader id="n0_up9t" name="n0" xy="42,174" size="665,723"/>
+    <loader id="n2_up9t" name="n2" xy="100,949" size="192,66"/>
+    <loader id="n3_up9t" name="n3" xy="419,945" size="214,75"/>
+  </displayList>
+</component>

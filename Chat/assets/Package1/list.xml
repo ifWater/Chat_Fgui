@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="750,1033">
+<component size="750,1033" overflow="hidden">
   <displayList>
     <list id="n2_hcy6" name="n2" xy="0,0" size="749,1033" layout="flow_hz" overflow="scroll" scrollBarFlags="512" margin="7,0,10,0" ptrRes=",ui://0kbw6g7glrskg" lineGap="19" colGap="20" defaultItem="ui://0kbw6g7ghcy67" autoClearItems="true">
       <item/>

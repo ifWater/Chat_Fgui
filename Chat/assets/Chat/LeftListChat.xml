@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="720,452">
+<component size="720,455">
   <displayList>
-    <image id="n3_sy98" name="n3" src="sy98p" fileName="QES_Bg.png" xy="155,110" size="530,345">
+    <image id="n3_sy98" name="n3" src="sy98p" fileName="QES_Bg.png" xy="155,110" size="530,348">
       <relation target="n1_cqnz" sidePair="bottomext-bottom"/>
     </image>
     <component id="n4_pdoa" name="n4" src="pdoax" fileName="headIcon.xml" xy="18,11"/>
-    <list id="n1_cqnz" name="n1" xy="153,111" size="530,341" margin="15,0,12,0" lineGap="20" defaultItem="ui://qyikjfyocqnz8" autoClearItems="true">
+    <list id="n1_cqnz" name="n1" xy="153,111" size="530,344" margin="15,0,12,0" lineGap="20" defaultItem="ui://qyikjfyocqnz8" autoClearItems="true">
       <item/>
       <item/>
       <item/>

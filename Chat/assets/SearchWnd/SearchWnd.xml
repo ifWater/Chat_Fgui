@@ -5,7 +5,7 @@
     <loader id="n11_hcy6" name="n11" xy="-1,0" size="750,1334" url="ui://0kbw6g7gs6a2c"/>
     <image id="n13_s6a2" name="n13" src="s6a2a" fileName="int.png" pkg="0kbw6g7g" xy="38,126"/>
     <image id="n12_s6a2" name="n12" src="s6a2d" fileName="fdj.png" pkg="0kbw6g7g" xy="64,146"/>
-    <list id="n15_pdoa" name="n15" xy="67,320" size="615,258" layout="flow_hz" overflow="scroll" defaultItem="ui://r71lxfw4pdoas">
+    <list id="n15_pdoa" name="n15" xy="67,320" size="615,258" layout="flow_hz" defaultItem="ui://r71lxfw4pdoas">
       <item/>
       <item/>
       <item/>

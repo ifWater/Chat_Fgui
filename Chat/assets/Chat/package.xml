@@ -26,6 +26,7 @@
     <component id="s6a2u" name="QuestionState.xml" path="/" exported="true"/>
     <component id="s6a2v" name="returnLast.xml" path="/" exported="true"/>
     <component id="pdoax" name="headIcon.xml" path="/" exported="true"/>
+    <component id="h8hgy" name="ShotSprite.xml" path="/" exported="true"/>
   </resources>
   <publish name="Chat"/>
 </packageDescription>
