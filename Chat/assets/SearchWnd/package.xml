@@ -3,6 +3,8 @@
   <resources>
     <component id="pdoar" name="SearchWnd.xml" path="/" exported="true"/>
     <component id="pdoas" name="SearchBtn.xml" path="/" exported="true"/>
+    <image id="kvqvv" name="6.png" path="/" exported="true"/>
+    <image id="kvqv10" name="bk (2).png" path="/" exported="true"/>
   </resources>
   <publish name="SearchWnd"/>
 </packageDescription>

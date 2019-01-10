@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="720,279">
+<component size="650,98" designImageOffsetX="-6" designImageOffsetY="-250">
   <displayList>
-    <component id="n2_pdoa" name="n2" src="pdoax" fileName="headIcon.xml" xy="14,8"/>
-    <text id="n1_cqnz" name="n1" xy="132,13" size="518,213" fontSize="45" autoSize="height" autoClearText="true" text="ssssssssss&#xA;sssssssss&#xA;sssssssssssss&#xA;sssssssssss&#xA;"/>
+    <component id="n2_pdoa" name="n2" src="pdoax" fileName="headIcon.xml" pkg="2173kvu5" xy="14,42">
+      <relation target="n3_kvqv" sidePair="bottom-bottom"/>
+    </component>
+    <image id="n3_kvqv" name="n3" src="yu9017" fileName="or拷贝2.png" xy="78,8" size="524,84">
+      <relation target="n1_cqnz" sidePair="height-height"/>
+    </image>
+    <text id="n1_cqnz" name="n1" xy="109,37" size="456,39" fontSize="30" color="#ffffff" leading="6" autoSize="height" autoClearText="true" text="Myssssss"/>
   </displayList>
   <relation target="n1_cqnz" sidePair="height-height"/>
 </component>

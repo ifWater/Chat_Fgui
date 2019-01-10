@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,50" mask="n1_pdoa">
+  <displayList>
+    <loader id="n0_pdoa" name="n0" xy="0,0" size="50,50" url="ui://qyikjfyocqnz2" fill="scaleFree"/>
+    <graph id="n1_pdoa" name="n1" xy="0,0" size="50,50" type="eclipse" lineColor="#00000000" fillColor="#00ffffff">
+      <relation target="n0_pdoa" sidePair="width-width,height-height"/>
+    </graph>
+  </displayList>
+  <relation target="n0_pdoa" sidePair="width-width,height-height"/>
+</component>

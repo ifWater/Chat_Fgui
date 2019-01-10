@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="355,481" extention="Button" bgColor="#669900">
+<component size="345,525" extention="Button" designImage="ui://qds4urarkvqvx" designImageOffsetX="-385" designImageOffsetY="-329" bgColor="#669900">
   <displayList>
-    <loader id="n0_hcy6" name="n0" xy="0,0" size="355,481" url="ui://qds4urarjdhq1" fill="scaleFree">
+    <loader id="n0_hcy6" name="n0" xy="0,0" size="345,525" url="ui://qds4urarjdhq1" fill="scaleFree">
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
-    <image id="n5_s6a2" name="n5" src="s6a29" fileName="EYE.png" xy="91,367"/>
-    <text id="n4_hcy6" name="n4" xy="151,372" size="81,21" fontSize="15" color="#cccccc" align="center" vAlign="middle" text="6.6m.Views"/>
+    <image id="n5_s6a2" name="n5" src="s6a29" fileName="EYE.png" xy="91,460" size="161,32"/>
+    <text id="n4_hcy6" name="n4" xy="138,463" size="107,28" fontSize="21" color="#cccccc" align="center" vAlign="middle" autoSize="none" autoClearText="true" text="6"/>
   </displayList>
   <Button/>
 </component>

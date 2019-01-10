@@ -2,15 +2,13 @@
 <packageDescription id="0kbw6g7g" jpegQuality="80" compressPNG="true">
   <resources>
     <component id="hcy61" name="MainUI.xml" path="/" exported="true"/>
-    <image id="hcy62" name="图层3.png" path="/"/>
     <component id="hcy65" name="list.xml" path="/" exported="true"/>
     <component id="hcy67" name="viewBtn.xml" path="/" exported="true"/>
     <component id="hcy68" name="choosePrefab.xml" path="/" exported="true"/>
-    <image id="s6a29" name="EYE.png" path="/" exported="true"/>
+    <image id="s6a29" name="EYE.png" path="/" exported="true" scale="9grid" scale9grid="44,7,108,17" gridTile="16"/>
     <image id="s6a2a" name="int.png" path="/" exported="true"/>
     <image id="s6a2b" name="line.png" path="/" exported="true"/>
-    <image id="s6a2c" name="bg.png" path="/" exported="true"/>
-    <image id="s6a2d" name="fdj.png" path="/" exported="true"/>
+    <image id="s6a2c" name="bg.png" path="/" exported="true" scale="9grid" scale9grid="188,334,376,668" gridTile="28"/>
     <component id="lrskg" name="pullUpScroll.xml" path="/" exported="true"/>
     <image id="lrski" name="db.png" path="/"/>
     <image id="lrskj" name="Refreshcompleted.png" path="/" exported="true"/>
@@ -19,9 +17,11 @@
     <image id="lrsko" name="re.png" path="/" exported="true"/>
     <image id="lrskp" name="up.png" path="/" exported="true"/>
     <image id="lrskq" name="Theend.png" path="/" exported="true"/>
-    <image id="s6a2f" name="Search.png" path="/" exported="true"/>
     <component id="h8hgr" name="SearchEndWnd.xml" path="/" exported="true"/>
     <image id="up9ts" name="FH.png" path="/" exported="true"/>
+    <image id="kvqvt" name="Search.png" path="/" exported="true"/>
+    <image id="yu90u" name="fdj(1).png" path="/" exported="true"/>
+    <image id="yu90v" name="go.png" path="/" exported="true"/>
   </resources>
   <publish name="Package1"/>
 </packageDescription>

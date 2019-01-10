@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="750,1334" designImage="ui://qds4urarcqnz0">
+<component size="750,1334" overflow="hidden" designImage="ui://qds4urarcqnz0" adaptationTest="FitSize">
   <displayList>
-    <image id="n6_cqnz" name="n6" src="cqnzf" fileName="bg.png" xy="0,0"/>
-    <component id="n3_cqnz" name="n3" src="cqnz3" fileName="clickBtn.xml" xy="655,1261"/>
-    <text id="n4_cqnz" name="n4" xy="226,1272" size="291,40" input="true" prompt="输入自己的名字" maxLength="8" fontSize="12" autoSize="none" text=""/>
-    <list id="n5_cqnz" name="n5" xy="15,113" size="720,1130" overflow="scroll"/>
-    <loader id="n7_cqnz" name="n7" xy="37,37" size="15,28" url="ui://qyikjfyocqnzj"/>
-    <image id="n9_cqnz" name="n9" src="cqnzk" fileName="KK.png" xy="182,1264"/>
-    <image id="n10_cqnz" name="n10" src="cqnzl" fileName="LINE.png" xy="0,1251"/>
-    <component id="n11_cqnz" name="n11" src="cqnzn" fileName="addBtn.xml" xy="34,1262"/>
+    <image id="n6_cqnz" name="n6" src="cqnzf" fileName="bg.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <list id="n5_cqnz" name="n5" xy="15,113" size="720,1136" overflow="scroll" lineGap="10">
+      <relation target="" sidePair="width-width,height-height"/>
+    </list>
+    <loader id="n7_cqnz" name="n7" xy="18,22" size="56,55" url="ui://qyikjfyocqnzj" align="center" vAlign="middle"/>
     <image id="n12_cqnz" name="n12" src="cqnzg" fileName="logo.png" xy="324,18"/>
+    <component id="n3_cqnz" name="n3" src="cqnz3" fileName="clickBtn.xml" xy="647,1271" group="n13_kvqv"/>
+    <image id="n9_cqnz" name="n9" src="khav1c" fileName="KK(1).png" xy="53,1266" size="561,61" group="n13_kvqv"/>
+    <image id="n10_cqnz" name="n10" src="khav1d" fileName="LINE(1).png" xy="0,1257" group="n13_kvqv"/>
+    <text id="n4_cqnz" name="n4" xy="81,1272" size="500,51" group="n13_kvqv" input="true" prompt="[COLOR=#FFFFFF]Please enter your name[/COLOR]" fontSize="30" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="aaaaaaaaaaaaaa"/>
+    <group id="n13_kvqv" name="n13" xy="0,1257" size="750,70" advanced="true">
+      <relation target="n5_cqnz" sidePair="top-bottom"/>
+    </group>
   </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n13_kvqv" tween="true" startValue="0.5" endValue="1" duration="12" ease="Linear"/>
+    <item time="0" type="XY" target="n13_kvqv" tween="true" startValue="0,1336" endValue="0,1253" duration="12" ease="Linear"/>
+    <item time="12" type="Alpha" target="n13_kvqv" tween="true" startValue="1" ease="Linear"/>
+  </transition>
 </component>

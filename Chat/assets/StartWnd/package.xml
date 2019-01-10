@@ -5,6 +5,11 @@
     <image id="sy981" name="start.png" path="/" exported="true"/>
     <movieclip id="pdoa13" name="wait.jta" path="/" exported="true"/>
     <component id="pdoa2" name="WaitWnd.xml" path="/" exported="true"/>
+    <component id="pdoax" name="headIcon.xml" path="/" exported="true"/>
+    <image id="kvqv14" name="11.png" path="/" exported="true"/>
+    <image id="yu9015" name="0.png" path="/" exported="true"/>
+    <image id="yu9016" name="BG.png" path="/"/>
+    <component id="yu9017" name="headIcon(1).xml" path="/" exported="true"/>
   </resources>
   <publish name="StartWnd"/>
 </packageDescription>

@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="720,455">
+<component size="650,398" designImageOffsetY="-247" designImageAlpha="55">
   <displayList>
-    <image id="n3_sy98" name="n3" src="sy98p" fileName="QES_Bg.png" xy="155,110" size="530,348">
+    <image id="n5_kvqv" name="n5" src="yu9017" fileName="or拷贝2.png" xy="78,5" size="520,388">
       <relation target="n1_cqnz" sidePair="bottomext-bottom"/>
     </image>
-    <component id="n4_pdoa" name="n4" src="pdoax" fileName="headIcon.xml" xy="18,11"/>
-    <list id="n1_cqnz" name="n1" xy="153,111" size="530,344" margin="15,0,12,0" lineGap="20" defaultItem="ui://qyikjfyocqnz8" autoClearItems="true">
+    <component id="n4_pdoa" name="n4" src="pdoax" fileName="headIcon.xml" pkg="2173kvu5" xy="14,343">
+      <relation target="n5_kvqv" sidePair="bottom-bottom"/>
+    </component>
+    <list id="n1_cqnz" name="n1" xy="121,80" size="432,292" margin="5,0,5,0" lineGap="23" defaultItem="ui://qyikjfyocqnz8" autoClearItems="true">
+      <relation target="n2_cqnz" sidePair="top-bottom"/>
       <item/>
       <item/>
       <item/>
       <item/>
     </list>
-    <text id="n2_cqnz" name="n2" xy="172,22" size="465,83" fontSize="30" autoSize="none" text="HelloWord"/>
+    <text id="n2_cqnz" name="n2" xy="109,25" size="453,39" fontSize="30" color="#ffffff" leading="6" autoSize="height" text="HelloWord"/>
   </displayList>
   <relation target="n1_cqnz" sidePair="bottomext-bottom"/>
 </component>

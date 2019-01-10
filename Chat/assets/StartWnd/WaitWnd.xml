@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="750,1334">
+<component size="750,1334" adaptationTest="FitSize">
   <displayList>
-    <graph id="n0_pdoa" name="n0" xy="0,0" size="750,1334" type="rect" lineColor="#80000000" fillColor="#80333333"/>
-    <movieclip id="n1_pdoa" name="n1" src="pdoa13" fileName="wait.jta" xy="338,632"/>
+    <image id="n3_yu90" name="n3" src="yu9016" fileName="BG.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n0_pdoa" name="n0" xy="0,0" size="750,1334" visible="false" alpha="0.6" url="ui://2173kvu5kvqv14" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <movieclip id="n1_pdoa" name="n1" src="pdoa13" fileName="wait.jta" xy="259,583" group="n4_khav"/>
+    <image id="n2_yu90" name="n2" src="yu9015" fileName="0.png" xy="258,582" group="n4_khav">
+      <relation target="n1_pdoa" sidePair="middle-middle,center-center"/>
+    </image>
+    <group id="n4_khav" name="n4" xy="258,582" size="233,178" advanced="true">
+      <relation target="n3_yu90" sidePair="center-center,middle-middle"/>
+    </group>
   </displayList>
 </component>

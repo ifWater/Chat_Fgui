@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="720,69">
+<component size="720,129" designImage="ui://qds4urarkvqvy" designImageOffsetX="11" designImageOffsetY="-251" designImageAlpha="0">
   <displayList>
-    <component id="n4_pdoa" name="n4" src="pdoax" fileName="headIcon.xml" xy="30,9"/>
-    <loader id="n1_cqnz" name="n1" xy="243,19" size="50,30"/>
+    <image id="n5_kvqv" name="n5" src="yu9017" fileName="or拷贝2.png" xy="78,20" size="386,88">
+      <relation target="n1_cqnz" sidePair="height-height,width-width"/>
+    </image>
+    <component id="n4_pdoa" name="n4" src="pdoax" fileName="headIcon.xml" pkg="2173kvu5" xy="14,58">
+      <relation target="n5_kvqv" sidePair="bottom-bottom"/>
+    </component>
+    <loader id="n1_cqnz" name="n1" xy="112,40" size="322,48"/>
   </displayList>
   <relation target="n1_cqnz" sidePair="bottomext-bottom"/>
 </component>

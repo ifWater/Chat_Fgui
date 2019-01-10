@@ -9,24 +9,27 @@
     <component id="cqnz6" name="LeftListChat.xml" path="/" exported="true"/>
     <component id="cqnz8" name="QuestionBtn.xml" path="/" exported="true"/>
     <component id="cqnza" name="LeftSpriteChat.xml" path="/" exported="true"/>
-    <image id="cqnzf" name="bg.png" path="/" exported="true"/>
+    <image id="cqnzf" name="bg.png" path="/" exported="true" scale="9grid" scale9grid="188,334,376,668" gridTile="28"/>
     <image id="cqnzg" name="logo.png" path="/" exported="true"/>
-    <image id="cqnzh" name="SS.png" path="/" exported="true"/>
     <image id="cqnzi" name="JIA.png" path="/" exported="true"/>
     <image id="cqnzj" name="FH.png" path="/" exported="true"/>
-    <image id="cqnzk" name="KK.png" path="/" exported="true"/>
-    <image id="cqnzl" name="LINE.png" path="/" exported="true"/>
     <component id="cqnzn" name="addBtn.xml" path="/" exported="true"/>
-    <image id="cqnzo" name="gg.png" path="/" exported="true"/>
-    <image id="sy98p" name="QES_Bg.png" path="/" exported="true"/>
-    <image id="sy98q" name="QES_IN.png" path="/" exported="true"/>
-    <image id="sy98r" name="QES_OUT.png" path="/" exported="true"/>
-    <image id="sy98s" name="QUE_OUTP.png" path="/" exported="true"/>
-    <image id="sy98t" name="QES_INp.png" path="/" exported="true"/>
     <component id="s6a2u" name="QuestionState.xml" path="/" exported="true"/>
     <component id="s6a2v" name="returnLast.xml" path="/" exported="true"/>
-    <component id="pdoax" name="headIcon.xml" path="/" exported="true"/>
     <component id="h8hgy" name="ShotSprite.xml" path="/" exported="true"/>
+    <image id="yu9010" name="bl.png" path="/" exported="true" scale="9grid" scale9grid="23,21,346,43" gridTile="31"/>
+    <image id="yu9011" name="or.png" path="/" exported="true" scale="9grid" scale9grid="25,16,344,37" gridTile="31"/>
+    <image id="yu9012" name="gg(1).png" path="/" exported="true"/>
+    <image id="yu9013" name="qq.png" path="/" exported="true"/>
+    <image id="yu9016" name="or拷贝.png" path="/" exported="true" scale="9grid" scale9grid="98,35,196,4" gridTile="3"/>
+    <image id="yu9017" name="or拷贝2.png" path="/" exported="true" scale="9grid" scale9grid="47,29,296,6" gridTile="3"/>
+    <image id="yu9018" name="XZ.png" path="/" exported="true" scale="9grid" scale9grid="39,18,295,18" gridTile="19"/>
+    <image id="khav19" name="eye.png" path="/" exported="true"/>
+    <image id="khav1a" name="or拷贝5.png" path="/" exported="true" scale="9grid" scale9grid="32,27,291,3" gridTile="19"/>
+    <image id="khav1b" name="or拷贝4.png" path="/" exported="true" scale="9grid" scale9grid="38,27,281,2" gridTile="19"/>
+    <image id="khav1c" name="KK(1).png" path="/" exported="true" scale="9grid" scale9grid="128,16,256,32" gridTile="19"/>
+    <image id="khav1d" name="LINE(1).png" path="/" exported="true"/>
+    <image id="khav1e" name="sr.png" path="/" exported="true"/>
   </resources>
   <publish name="Chat"/>
 </packageDescription>

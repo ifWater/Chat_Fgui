@@ -2,19 +2,21 @@
 <component size="750,1334">
   <controller name="pageCtr" pages="" selected="-1"/>
   <displayList>
-    <loader id="n11_hcy6" name="n11" xy="-1,0" size="750,1334" url="ui://0kbw6g7gs6a2c"/>
+    <image id="n11_hcy6" name="n11" src="s6a2c" fileName="bg.png" pkg="0kbw6g7g" xy="-1,0" size="750,1334">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
     <image id="n13_s6a2" name="n13" src="s6a2a" fileName="int.png" pkg="0kbw6g7g" xy="38,126"/>
-    <image id="n12_s6a2" name="n12" src="s6a2d" fileName="fdj.png" pkg="0kbw6g7g" xy="64,146"/>
-    <list id="n15_pdoa" name="n15" xy="67,320" size="615,258" layout="flow_hz" defaultItem="ui://r71lxfw4pdoas">
+    <list id="n15_pdoa" name="n15" xy="7,320" size="730,151" layout="flow_hz" margin="10,10,10,10" lineGap="10" colGap="10" defaultItem="ui://r71lxfw4pdoas">
       <item/>
       <item/>
       <item/>
       <item/>
     </list>
-    <loader id="n16_pdoa" name="n16" xy="584,149" size="99,21" url="ui://0kbw6g7gs6a2f"/>
-    <text id="n17_pdoa" name="n17" xy="125,138" size="427,41" input="true" fontSize="30" autoSize="none" singleLine="true" autoClearText="true" text="拉拉拉啊啦啦啦拉拉&#xA;"/>
-    <loader id="n18_pdoa" name="n18" xy="350,614" size="50,50">
+    <loader id="n16_pdoa" name="n16" xy="558,124" size="151,66" url="ui://0kbw6g7gyu90v"/>
+    <text id="n17_pdoa" name="n17" xy="106,140" size="400,41" input="true" prompt="[COLOR=#FFFFFF]Search[/COLOR]" fontSize="30" color="#ffffff" autoSize="none" singleLine="true" autoClearText="true" text=""/>
+    <loader id="n18_pdoa" name="n18" xy="262,507" size="225,50" url="ui://r71lxfw4kvqv10">
       <relation target="n15_pdoa" sidePair="top-bottom"/>
     </loader>
+    <image id="n19_yu90" name="n19" src="yu90u" fileName="fdj(1).png" pkg="0kbw6g7g" xy="56,145"/>
   </displayList>
 </component>

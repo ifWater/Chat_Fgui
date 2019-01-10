@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="300,100">
+<component size="346,54">
   <displayList>
-    <loader id="n0_pdoa" name="n0" xy="0,0" size="300,100"/>
-    <text id="n1_pdoa" name="n1" xy="19,29" size="260,41" fontSize="30" autoSize="none" autoClearText="true" text="啦啦啦啦啦;啊啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦&#xA;"/>
+    <loader id="n0_pdoa" name="n0" xy="0,0" size="346,54" url="ui://r71lxfw4kvqvv"/>
+    <text id="n1_pdoa" name="n1" xy="43,6" size="260,41" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" autoClearText="true" text="啦啦"/>
   </displayList>
 </component>

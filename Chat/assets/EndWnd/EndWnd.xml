@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="750,1064" pivot="0.5,0.5" anchor="true">
+<component size="50,30" pivot="0.5,0.5" anchor="true">
   <displayList>
-    <loader id="n1_sy98" name="n1" xy="0,0" size="750,1064"/>
+    <loader id="n4_yu90" name="n4" xy="0,0" size="50,30" fill="scaleFree"/>
   </displayList>
-  <relation target="n1_sy98" sidePair="width-width,height-height"/>
 </component>

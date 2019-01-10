@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="750,1334">
   <displayList>
-    <loader id="n1_up9t" name="n1" xy="0,0" size="750,1334"/>
-    <loader id="n0_up9t" name="n0" xy="42,174" size="665,723"/>
-    <loader id="n2_up9t" name="n2" xy="100,949" size="192,66"/>
-    <loader id="n3_up9t" name="n3" xy="419,945" size="214,75"/>
+    <loader id="n1_up9t" name="n1" xy="0,0" size="750,1334" url="ui://2173kvu5kvqv14" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n0_up9t" name="n0" xy="52,0" pivot="0.5,0.5" size="645,642" fill="scaleFree"/>
+    <loader id="n2_up9t" name="n2" xy="57,684" size="636,88" url="ui://2vp6roygkhava">
+      <relation target="n0_up9t" sidePair="top-bottom"/>
+    </loader>
+    <loader id="n3_up9t" name="n3" xy="176,794" size="397,75" url="ui://2vp6roygkhav8">
+      <relation target="n2_up9t" sidePair="top-bottom"/>
+    </loader>
   </displayList>
 </component>

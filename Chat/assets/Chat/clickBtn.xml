@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="61,61" pivot="0.5,0.5" extention="Button">
+<component size="50,50" pivot="0.5,0.5" extention="Button">
   <displayList>
-    <image id="n3_cqnz" name="n3" src="cqnzh" fileName="SS.png" xy="0,0"/>
+    <image id="n4_yu90" name="n4" src="khav1e" fileName="sr.png" xy="0,0" size="50,50"/>
   </displayList>
   <Button/>
 </component>

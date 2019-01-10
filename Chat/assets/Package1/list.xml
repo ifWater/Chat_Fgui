@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="750,1033" overflow="hidden">
+<component size="750,1033" overflow="hidden" designImageOffsetY="-323">
   <displayList>
-    <list id="n2_hcy6" name="n2" xy="0,0" size="749,1033" layout="flow_hz" overflow="scroll" scrollBarFlags="512" margin="7,0,10,0" ptrRes=",ui://0kbw6g7glrskg" lineGap="19" colGap="20" defaultItem="ui://0kbw6g7ghcy67" autoClearItems="true">
+    <list id="n2_hcy6" name="n2" xy="0,0" size="749,1033" layout="flow_hz" overflow="scroll" scrollBarFlags="512" margin="7,0,13,0" ptrRes=",ui://0kbw6g7glrskg" lineGap="25" colGap="27" defaultItem="ui://0kbw6g7ghcy67" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
       <item/>
       <item/>
       <item/>
