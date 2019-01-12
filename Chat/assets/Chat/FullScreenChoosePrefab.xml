@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="710,1126">
+  <displayList>
+    <list id="n0_e3c9" name="n0" xy="161,388" size="432,292" margin="5,0,5,0" lineGap="23" defaultItem="ui://qyikjfyocqnz8" autoClearItems="true">
+      <relation target="n1_e3c9" sidePair="top-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n1_e3c9" name="n1" xy="149,333" size="453,39" fontSize="30" color="#ffffff" leading="6" autoSize="height" text="HelloWord"/>
+  </displayList>
+</component>

@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="750,1334" overflow="hidden" designImage="ui://qds4urarcqnz0" adaptationTest="FitSize">
+  <controller name="page" pages="" selected="-1"/>
   <displayList>
     <image id="n6_cqnz" name="n6" src="cqnzf" fileName="bg.png" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <list id="n5_cqnz" name="n5" xy="15,113" size="720,1136" overflow="scroll" lineGap="10">
+    <loader id="n14_e3c9" name="n14" xy="-1,106" size="752,1231" fill="scaleFree">
       <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <list id="n5_cqnz" name="n5" xy="15,113" size="720,1136" overflow="scroll" lineGap="10" defaultItem="ui://qyikjfyoe3c91f" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item url="ui://qyikjfyoe3c91g"/>
+      <item/>
+      <item url="ui://qyikjfyoe3c91g"/>
+      <item/>
+      <item url="ui://qyikjfyoe3c91g"/>
+    </list>
+    <list id="n18_tr6y" name="n18" xy="15,113" size="720,1136" overflow="scroll" scrollBarFlags="8" lineGap="10" defaultItem="ui://qyikjfyoe3c91f" align="center" vAlign="middle" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item url="ui://qyikjfyoe3c91g"/>
+      <item/>
+      <item url="ui://qyikjfyoe3c91g"/>
+      <item/>
+      <item url="ui://qyikjfyoe3c91g"/>
     </list>
     <loader id="n7_cqnz" name="n7" xy="18,22" size="56,55" url="ui://qyikjfyocqnzj" align="center" vAlign="middle"/>
     <image id="n12_cqnz" name="n12" src="cqnzg" fileName="logo.png" xy="324,18"/>
@@ -13,9 +30,12 @@
     <image id="n9_cqnz" name="n9" src="khav1c" fileName="KK(1).png" xy="53,1266" size="561,61" group="n13_kvqv"/>
     <image id="n10_cqnz" name="n10" src="khav1d" fileName="LINE(1).png" xy="0,1257" group="n13_kvqv"/>
     <text id="n4_cqnz" name="n4" xy="81,1272" size="500,51" group="n13_kvqv" input="true" prompt="[COLOR=#FFFFFF]Please enter your name[/COLOR]" fontSize="30" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="aaaaaaaaaaaaaa"/>
-    <group id="n13_kvqv" name="n13" xy="0,1257" size="750,70" advanced="true">
+    <group id="n13_kvqv" name="n13" xy="0,1257" size="750,70" advanced="true" collapsed="true">
       <relation target="n5_cqnz" sidePair="top-bottom"/>
     </group>
+    <text id="n15_e3c9" name="n15" xy="99,892" size="389,67" group="n17_e3c9" input="true" fontSize="30" autoSize="none" singleLine="true" autoClearText="true" text=""/>
+    <loader id="n16_e3c9" name="n16" xy="536,903" size="50,50" group="n17_e3c9" url="ui://qyikjfyocqnzi"/>
+    <group id="n17_e3c9" name="n17" xy="99,892" size="487,68" advanced="true"/>
   </displayList>
   <transition name="t0">
     <item time="0" type="Alpha" target="n13_kvqv" tween="true" startValue="0.5" endValue="1" duration="12" ease="Linear"/>

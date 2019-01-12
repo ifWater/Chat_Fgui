@@ -5,6 +5,7 @@
 	"fontScheme":["默认字体"],
 	"fontSize":30,
 	"fontSizeScheme":["自定义字体大小 30"],
+	"publishDepEnabled":true,
 	"scrollBars":{
 		"defaultDisplay":"visible",
 		"horizontal":"",

@@ -30,6 +30,8 @@
     <image id="khav1c" name="KK(1).png" path="/" exported="true" scale="9grid" scale9grid="128,16,256,32" gridTile="19"/>
     <image id="khav1d" name="LINE(1).png" path="/" exported="true"/>
     <image id="khav1e" name="sr.png" path="/" exported="true"/>
+    <component id="e3c91f" name="FullScreenWord.xml" path="/" exported="true"/>
+    <component id="e3c91g" name="FullScreenChoosePrefab.xml" path="/" exported="true"/>
   </resources>
   <publish name="Chat"/>
 </packageDescription>
