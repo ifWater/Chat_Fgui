@@ -6,8 +6,7 @@
     <component id="hcy67" name="viewBtn.xml" path="/" exported="true"/>
     <component id="hcy68" name="choosePrefab.xml" path="/" exported="true"/>
     <image id="s6a29" name="EYE.png" path="/" exported="true" scale="9grid" scale9grid="44,7,108,17" gridTile="16"/>
-    <image id="s6a2a" name="int.png" path="/" exported="true"/>
-    <image id="s6a2b" name="line.png" path="/" exported="true"/>
+    <image id="s6a2a" name="int.png" path="/" exported="true" scale="9grid" scale9grid="31,19,610,21" gridTile="31"/>
     <image id="s6a2c" name="bg.png" path="/" exported="true" scale="9grid" scale9grid="188,334,376,668" gridTile="28"/>
     <component id="lrskg" name="pullUpScroll.xml" path="/" exported="true"/>
     <image id="lrski" name="db.png" path="/"/>
@@ -22,6 +21,13 @@
     <image id="kvqvt" name="Search.png" path="/" exported="true"/>
     <image id="yu90u" name="fdj(1).png" path="/" exported="true"/>
     <image id="yu90v" name="go.png" path="/" exported="true"/>
+    <image id="afqtw" name="logo.png" path="/" exported="true"/>
+    <image id="afqty" name="line.png" path="/" exported="true"/>
+    <image id="afqtz" name="bg1.png" path="/" exported="true" scale="9grid" scale9grid="188,398,376,700" gridTile="28"/>
+    <image id="fdz510" name="HOT.png" path="/" exported="true"/>
+    <image id="fdz511" name="HOT1.png" path="/" exported="true"/>
+    <image id="fdz512" name="NEW.png" path="/" exported="true"/>
+    <image id="fdz513" name="NEW1.png" path="/" exported="true"/>
   </resources>
   <publish name="Package1"/>
 </packageDescription>

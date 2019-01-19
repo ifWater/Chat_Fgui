@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="750,1334" designImageLayer="1">
+<component size="750,1334" overflow="hidden" designImageLayer="1">
   <controller name="pageCtr" pages="" selected="-1"/>
   <displayList>
-    <image id="n11_hcy6" name="n11" src="s6a2c" fileName="bg.png" xy="-1,0" size="750,1334">
+    <image id="n21_afqt" name="n21" src="afqtz" fileName="bg1.png" xy="0,0" size="750,1334">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <list id="n0_hcy6" name="n0" xy="0,292" size="750,1033" pageController="pageCtr" layout="pagination" overflow="scroll" scroll="horizontal" scrollBarFlags="8" margin="12,0,0,0" defaultItem="ui://0kbw6g7ghcy65" align="center" vAlign="middle" autoClearItems="true">
+    <image id="n22_afqt" name="n22" src="afqtw" fileName="logo.png" xy="322,22">
+      <relation target="" sidePair="center-center,top-top"/>
+    </image>
+    <list id="n0_hcy6" name="n0" xy="-1,290" size="750,1033" pageController="pageCtr" layout="pagination" overflow="scroll" scroll="horizontal" scrollBarFlags="8" margin="20,0,0,0" defaultItem="ui://0kbw6g7ghcy65" align="center" vAlign="middle" autoClearItems="true">
       <relation target="" sidePair="height-height,width-width"/>
       <item/>
       <item/>
@@ -20,18 +23,35 @@
       <item/>
       <item/>
     </list>
-    <list id="n8_hcy6" name="n8" xy="20,203" size="714,73" layout="row" overflow="scroll" scroll="horizontal" margin="17,0,26,26" colGap="31" defaultItem="ui://0kbw6g7ghcy68">
+    <list id="n8_hcy6" name="n8" xy="25,203" size="701,73" layout="row" overflow="scroll" scroll="horizontal" margin="17,0,0,0" colGap="31" defaultItem="ui://0kbw6g7ghcy68" autoClearItems="true">
+      <relation target="n0_hcy6" sidePair="bottom-top,center-center"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
       <item/>
       <item/>
       <item/>
       <item/>
       <item/>
     </list>
-    <loader id="n13_s6a2" name="n13" xy="38,129" size="673,65" url="ui://0kbw6g7gs6a2a"/>
-    <text id="n18_yu90" name="n18" xy="105,142" size="98,39" touchable="false" input="true" prompt="[COLOR=#FFFFFF]Search[/COLOR]" fontSize="30" color="#ffffff" autoSize="shrink" singleLine="true" autoClearText="true" text=""/>
-    <loader id="n14_s6a2" name="n14" xy="558,129" size="153,65" url="ui://0kbw6g7gyu90v"/>
-    <component id="n16_kvqv" name="n16" src="yu9017" fileName="headIcon(1).xml" pkg="2173kvu5" xy="653,12"/>
-    <image id="n17_yu90" name="n17" src="yu90u" fileName="fdj(1).png" xy="55,151"/>
+    <loader id="n13_s6a2" name="n13" xy="106,115" size="619,65" url="ui://0kbw6g7gs6a2a" fill="scaleFree">
+      <relation target="" sidePair="center-center,top-top"/>
+    </loader>
+    <text id="n18_yu90" name="n18" xy="161,131" size="99,39" alpha="0.5" touchable="false" input="true" prompt="[COLOR=#FFFFFF]Search[/COLOR]" fontSize="30" color="#ffffff" vAlign="middle" singleLine="true" text="Search">
+      <relation target="n13_s6a2" sidePair="center-center,middle-middle"/>
+    </text>
+    <image id="n17_yu90" name="n17" src="yu90u" fileName="fdj(1).png" xy="123,135">
+      <relation target="n13_s6a2" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n19_afqt" name="n19" src="pdoax" fileName="headIcon.xml" pkg="2173kvu5" xy="23,113">
+      <relation target="n13_s6a2" sidePair="right-left,middle-middle"/>
+    </component>
   </displayList>
   <transition name="t0">
     <item time="0" type="Alpha" tween="true" startValue="0.5" endValue="1" duration="24" ease="Linear"/>

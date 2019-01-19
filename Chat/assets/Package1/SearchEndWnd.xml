@@ -14,13 +14,18 @@
       <item/>
       <item/>
     </list>
-    <loader id="n23_up9t" name="n23" xy="43,140" size="673,65" url="ui://0kbw6g7gs6a2a"/>
-    <text id="n31_yu90" name="n31" xy="111,153" size="109,41" touchable="false" input="true" prompt="[COLOR=#FFFFFF]Search[/COLOR]" fontSize="30" color="#ffffff" autoSize="none" singleLine="true" autoClearText="true" text=""/>
-    <loader id="n26_up9t" name="n26" xy="34,31" size="15,28" url="ui://0kbw6g7gup9ts"/>
-    <image id="n28_yu90" name="n28" src="yu90u" fileName="fdj(1).png" xy="61,159"/>
+    <loader id="n26_up9t" name="n26" xy="5,5" size="100,100" url="ui://0kbw6g7gup9ts" align="center" vAlign="middle">
+      <relation target="" sidePair="left-left,top-top"/>
+    </loader>
     <text id="n29_yu90" name="n29" xy="249,779" size="251,57" fontSize="45" bold="true" text="No Results ">
       <relation target="" sidePair="center-center,middle-middle"/>
     </text>
+    <loader id="n23_up9t" name="n23" xy="43,140" size="673,65" url="ui://0kbw6g7gs6a2a"/>
+    <text id="n31_yu90" name="n31" xy="111,153" size="434,39" touchable="false" input="true" prompt="[COLOR=#FFFFFF]Search[/COLOR]" fontSize="30" color="#ffffff" autoSize="none" singleLine="true" autoClearText="true" text=""/>
+    <image id="n28_yu90" name="n28" src="yu90u" fileName="fdj(1).png" xy="61,159"/>
     <image id="n30_yu90" name="n30" src="yu90v" fileName="go.png" xy="567,140"/>
+    <loader id="n33_afqt" name="n33" xy="38,138" size="677,65">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
   </displayList>
 </component>

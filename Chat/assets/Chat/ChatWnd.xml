@@ -1,45 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="750,1334" overflow="hidden" designImage="ui://qds4urarcqnz0" adaptationTest="FitSize">
+<component size="750,1334" overflow="hidden" designImageOffsetX="-1453" designImageLayer="1" adaptationTest="FitSize">
   <controller name="page" pages="" selected="-1"/>
   <displayList>
-    <image id="n6_cqnz" name="n6" src="cqnzf" fileName="bg.png" xy="0,0">
+    <image id="n6_cqnz" name="n6" src="cqnzf" fileName="bg.png" xy="0,1" size="750,1334" hideByEditor="true">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <loader id="n14_e3c9" name="n14" xy="-1,106" size="752,1231" fill="scaleFree">
+    <image id="n12_cqnz" name="n12" src="cqnzg" fileName="logo.png" xy="324,18" hideByEditor="true">
+      <relation target="" sidePair="top-top,center-center"/>
+    </image>
+    <loader id="n14_e3c9" name="n14" xy="-9,-370" size="774,1338" hideByEditor="true" fill="scaleFree">
       <relation target="" sidePair="width-width,height-height"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
     </loader>
-    <list id="n5_cqnz" name="n5" xy="15,113" size="720,1136" overflow="scroll" lineGap="10" defaultItem="ui://qyikjfyoe3c91f" autoClearItems="true">
+    <image id="n19_afqt" name="n19" src="cqnz2" fileName="n0.png" xy="-1,425" size="750,907" hideByEditor="true">
+      <relation target="" sidePair="width-width"/>
+      <relation target="n18_tr6y" sidePair="bottom-bottom,height-height"/>
+    </image>
+    <list id="n5_cqnz" name="n5" xy="15,113" size="720,1136" hideByEditor="true" overflow="scroll" lineGap="10" defaultItem="ui://qyikjfyoe3c91f" autoClearItems="true">
       <relation target="" sidePair="width-width,height-height"/>
-      <item url="ui://qyikjfyoe3c91g"/>
-      <item/>
-      <item url="ui://qyikjfyoe3c91g"/>
-      <item/>
-      <item url="ui://qyikjfyoe3c91g"/>
     </list>
-    <list id="n18_tr6y" name="n18" xy="15,113" size="720,1136" overflow="scroll" scrollBarFlags="8" lineGap="10" defaultItem="ui://qyikjfyoe3c91f" align="center" vAlign="middle" autoClearItems="true">
+    <list id="n18_tr6y" name="n18" xy="0,423" size="750,910" hideByEditor="true" overflow="scroll" scrollBarFlags="8" defaultItem="ui://qyikjfyodfu52d" align="center" vAlign="middle" autoClearItems="true">
       <relation target="" sidePair="width-width,height-height"/>
-      <item url="ui://qyikjfyoe3c91g"/>
       <item/>
-      <item url="ui://qyikjfyoe3c91g"/>
-      <item/>
-      <item url="ui://qyikjfyoe3c91g"/>
     </list>
-    <loader id="n7_cqnz" name="n7" xy="18,22" size="56,55" url="ui://qyikjfyocqnzj" align="center" vAlign="middle"/>
-    <image id="n12_cqnz" name="n12" src="cqnzg" fileName="logo.png" xy="324,18"/>
+    <loader id="n7_cqnz" name="n7" xy="5,5" size="100,100" hideByEditor="true" url="ui://qyikjfyos6xw25" align="center" vAlign="middle">
+      <relation target="" sidePair="left-left,top-top"/>
+    </loader>
     <component id="n3_cqnz" name="n3" src="cqnz3" fileName="clickBtn.xml" xy="647,1271" group="n13_kvqv"/>
     <image id="n9_cqnz" name="n9" src="khav1c" fileName="KK(1).png" xy="53,1266" size="561,61" group="n13_kvqv"/>
     <image id="n10_cqnz" name="n10" src="khav1d" fileName="LINE(1).png" xy="0,1257" group="n13_kvqv"/>
     <text id="n4_cqnz" name="n4" xy="81,1272" size="500,51" group="n13_kvqv" input="true" prompt="[COLOR=#FFFFFF]Please enter your name[/COLOR]" fontSize="30" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="aaaaaaaaaaaaaa"/>
-    <group id="n13_kvqv" name="n13" xy="0,1257" size="750,70" advanced="true" collapsed="true">
+    <group id="n13_kvqv" name="n13" xy="0,1257" size="750,70" hideByEditor="true" advanced="true" collapsed="true">
       <relation target="n5_cqnz" sidePair="top-bottom"/>
     </group>
-    <text id="n15_e3c9" name="n15" xy="99,892" size="389,67" group="n17_e3c9" input="true" fontSize="30" autoSize="none" singleLine="true" autoClearText="true" text=""/>
-    <loader id="n16_e3c9" name="n16" xy="536,903" size="50,50" group="n17_e3c9" url="ui://qyikjfyocqnzi"/>
-    <group id="n17_e3c9" name="n17" xy="99,892" size="487,68" advanced="true"/>
+    <loader id="n24_s6xw" name="n24" xy="0,0" size="750,1334" group="n23_s6xw" url="ui://2173kvu5kvqv14" fill="scaleFree">
+      <relation target="" sidePair="width-width%,height-height%"/>
+    </loader>
+    <list id="n25_s6xw" name="n25" xy="0,81" size="750,1252" group="n23_s6xw" touchable="false" layout="flow_hz" overflow="scroll" ptrRes=",ui://0kbw6g7glrskg" lineGap="25" colGap="25" defaultItem="ui://qyikjfyos6xw29" align="center">
+      <relation target="" sidePair="width-width%,height-height%"/>
+      <item/>
+    </list>
+    <loader id="n26_s6xw" name="n26" xy="19,5" size="100,100" group="n23_s6xw" url="ui://qyikjfyos6xwe" align="center" vAlign="middle">
+      <relation target="" sidePair="left-left%,top-top"/>
+    </loader>
+    <image id="n22_s6xw" name="n22" src="s6xw2b" fileName="FS10.png" xy="407,506" size="11,35" group="n23_s6xw" aspect="true">
+      <relation target="n20_s6xw" sidePair="right-right"/>
+    </image>
+    <text id="n20_s6xw" name="n20" xy="386,502" size="10,47" group="n23_s6xw" fontSize="38" color="#ffffff" align="center" vAlign="middle" text="">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <image id="n21_s6xw" name="n21" src="s6xw2c" fileName="FS9.png" xy="362,506" size="11,35" group="n23_s6xw" aspect="true">
+      <relation target="n20_s6xw" sidePair="left-left"/>
+    </image>
+    <group id="n23_s6xw" name="n23" xy="0,0" size="750,1334" advanced="true"/>
+    <loader id="n27_dfu5" name="n27" xy="0,0" size="750,1334" group="n28_dfu5" url="ui://2173kvu5kvqv14" fill="scaleFree"/>
+    <list id="n29_dfu5" name="n29" xy="11,143" size="726,1046" group="n28_dfu5" layout="flow_hz" overflow="scroll" scrollBarFlags="16" lineGap="15" defaultItem="ui://qyikjfyodfu52q" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n28_dfu5" name="n28" xy="0,0" size="750,1334" visible="false" advanced="true" collapsed="true"/>
   </displayList>
   <transition name="t0">
     <item time="0" type="Alpha" target="n13_kvqv" tween="true" startValue="0.5" endValue="1" duration="12" ease="Linear"/>
     <item time="0" type="XY" target="n13_kvqv" tween="true" startValue="0,1336" endValue="0,1253" duration="12" ease="Linear"/>
     <item time="12" type="Alpha" target="n13_kvqv" tween="true" startValue="1" ease="Linear"/>
+  </transition>
+  <transition name="t2" options="1" autoPlayRepeat="-1">
+    <item time="0" type="Text" target="n20_s6xw" value="The results will shock you "/>
+    <item time="8" type="Text" target="n20_s6xw" value="The results will shock you ."/>
+    <item time="16" type="Text" target="n20_s6xw" value="The results will shock you .."/>
+    <item time="24" type="Text" target="n20_s6xw" value="The results will shock you ..."/>
+    <item time="30" type="Text" target="n20_s6xw" value="The results will shock you"/>
+  </transition>
+  <transition name="t1">
+    <item time="0" type="Text" target="n20_s6xw" value=" "/>
+    <item time="1" type="Text" target="n20_s6xw" value="T"/>
+    <item time="2" type="Text" target="n20_s6xw" value="Th"/>
+    <item time="3" type="Text" target="n20_s6xw" value="The"/>
+    <item time="4" type="Text" target="n20_s6xw" value="The "/>
+    <item time="5" type="Text" target="n20_s6xw" value="The r"/>
+    <item time="6" type="Text" target="n20_s6xw" value="The re"/>
+    <item time="7" type="Text" target="n20_s6xw" value="The res"/>
+    <item time="8" type="Text" target="n20_s6xw" value="The resu"/>
+    <item time="9" type="Text" target="n20_s6xw" value="The resul"/>
+    <item time="10" type="Text" target="n20_s6xw" value="The result"/>
+    <item time="11" type="Text" target="n20_s6xw" value="The results"/>
+    <item time="12" type="Text" target="n20_s6xw" value="The results "/>
+    <item time="13" type="Text" target="n20_s6xw" value="The results w"/>
+    <item time="14" type="Text" target="n20_s6xw" value="The results wi"/>
+    <item time="15" type="Text" target="n20_s6xw" value="The results wil"/>
+    <item time="16" type="Text" target="n20_s6xw" value="The results will"/>
+    <item time="17" type="Text" target="n20_s6xw" value="The results will "/>
+    <item time="18" type="Text" target="n20_s6xw" value="The results will s"/>
+    <item time="19" type="Text" target="n20_s6xw" value="The results will sh"/>
+    <item time="20" type="Text" target="n20_s6xw" value="The results will sho"/>
+    <item time="21" type="Text" target="n20_s6xw" value="The results will shoc"/>
+    <item time="22" type="Text" target="n20_s6xw" value="The results will shock"/>
+    <item time="23" type="Text" target="n20_s6xw" value="The results will shock "/>
+    <item time="24" type="Text" target="n20_s6xw" value="The results will shock y"/>
+    <item time="25" type="Text" target="n20_s6xw" value="The results will shock yo"/>
+    <item time="26" type="Text" target="n20_s6xw" value="The results will shock you"/>
   </transition>
 </component>

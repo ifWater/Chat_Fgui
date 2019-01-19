@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,910" designImageOffsetY="-423" designImageLayer="1">
+  <displayList>
+    <image id="n9_afqt" name="n9" src="afqt21" fileName="do.png" xy="0,0" size="750,910">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n4_cnbm" name="n4" xy="37,659" size="676,71" url="ui://qyikjfyoxr6m1l" fill="scaleFree">
+      <relation target="" sidePair="center-center%,top-top%"/>
+    </loader>
+    <image id="n5_cnbm" name="n5" src="xr6m1j" fileName="FS1.png" xy="216,495">
+      <relation target="n4_cnbm" sidePair="center-center%,bottom-top%"/>
+    </image>
+    <text id="n10_afqt" name="n10" xy="22,151" size="694,302" font="SimHei" fontSize="30" color="#696969" leading="8" autoSize="shrink" autoClearText="true" text="You are sailing on the sea on a tourist flight. Suddenly the storm came. You passed out on the deck. When you wake up, you hold a piece of wood. There is a woman and a man by your s">
+      <relation target="" sidePair="width-width%,height-height%"/>
+      <relation target="n16_xif7" sidePair="center-center%,top-bottom%"/>
+    </text>
+    <loader id="n13_dfu5" name="n13" xy="37,564" size="676,72" url="ui://qyikjfyoafqt24" autoSize="true">
+      <relation target="n4_cnbm" sidePair="center-center%,bottom-top%"/>
+    </loader>
+    <image id="n14_dfu5" name="n14" src="dfu52p" fileName="sanjiao.png" xy="666,585">
+      <relation target="n15_dfu5" sidePair="center-center%,middle-middle%"/>
+    </image>
+    <text id="n15_dfu5" name="n15" xy="37,564" size="676,72" fontSize="30" align="center" vAlign="middle" autoSize="none" text="">
+      <relation target="n4_cnbm" sidePair="center-center%,bottom-top%"/>
+    </text>
+    <richtext id="n16_xif7" name="n16" xy="22,31" size="676,109" font="Arial" fontSize="40" leading="7" autoSize="none" bold="true" text="Which one do you chosewhich one do you chose ?">
+      <relation target="" sidePair="width-width%,height-height%"/>
+      <relation target="" sidePair="center-center%,top-top%"/>
+    </richtext>
+  </displayList>
+  <transition name="t0" autoPlayRepeat="-1"/>
+</component>

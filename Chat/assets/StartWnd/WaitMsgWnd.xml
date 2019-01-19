@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <movieclip id="n0_s6xw" name="n0" src="pdoa13" fileName="wait.jta" xy="259,579" group="n2_s6xw"/>
+    <image id="n1_s6xw" name="n1" src="yu9015" fileName="0.png" xy="258,578" group="n2_s6xw">
+      <relation target="n0_s6xw" sidePair="middle-middle,center-center"/>
+    </image>
+    <group id="n2_s6xw" name="n2" xy="258,578" size="233,178" advanced="true">
+      <relation target="" sidePair="center-center%,middle-middle%"/>
+    </group>
+  </displayList>
+</component>

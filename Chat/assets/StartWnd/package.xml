@@ -8,8 +8,10 @@
     <component id="pdoax" name="headIcon.xml" path="/" exported="true"/>
     <image id="kvqv14" name="11.png" path="/" exported="true"/>
     <image id="yu9015" name="0.png" path="/" exported="true"/>
-    <image id="yu9016" name="BG.png" path="/"/>
+    <image id="yu9016" name="BG.png" path="/" exported="true"/>
     <component id="yu9017" name="headIcon(1).xml" path="/" exported="true"/>
+    <image id="cqnzj" name="FH.png" path="/" exported="true"/>
+    <component id="s6xw18" name="WaitMsgWnd.xml" path="/" exported="true"/>
   </resources>
   <publish name="StartWnd"/>
 </packageDescription>

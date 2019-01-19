@@ -6,17 +6,20 @@
       <relation target="" sidePair="width-width,height-height"/>
     </image>
     <image id="n13_s6a2" name="n13" src="s6a2a" fileName="int.png" pkg="0kbw6g7g" xy="38,126"/>
-    <list id="n15_pdoa" name="n15" xy="7,320" size="730,151" layout="flow_hz" margin="10,10,10,10" lineGap="10" colGap="10" defaultItem="ui://r71lxfw4pdoas">
+    <list id="n15_pdoa" name="n15" xy="7,320" size="730,151" layout="flow_hz" margin="10,10,10,10" lineGap="15" colGap="10" defaultItem="ui://r71lxfw4pdoas" autoClearItems="true">
       <item/>
       <item/>
       <item/>
       <item/>
     </list>
     <loader id="n16_pdoa" name="n16" xy="558,124" size="151,66" url="ui://0kbw6g7gyu90v"/>
-    <text id="n17_pdoa" name="n17" xy="106,140" size="400,41" input="true" prompt="[COLOR=#FFFFFF]Search[/COLOR]" fontSize="30" color="#ffffff" autoSize="none" singleLine="true" autoClearText="true" text=""/>
+    <text id="n17_pdoa" name="n17" xy="106,140" size="400,41" input="true" prompt="[size=30][COLOR=#FFFFFF]Search[/COLOR][/size]" fontSize="30" color="#ffffff" autoSize="none" singleLine="true" autoClearText="true" text=""/>
     <loader id="n18_pdoa" name="n18" xy="262,507" size="225,50" url="ui://r71lxfw4kvqv10">
       <relation target="n15_pdoa" sidePair="top-bottom"/>
     </loader>
     <image id="n19_yu90" name="n19" src="yu90u" fileName="fdj(1).png" pkg="0kbw6g7g" xy="56,145"/>
+    <loader id="n21_afqt" name="n21" xy="5,5" size="100,100" url="ui://2173kvu5cqnzj" align="center" vAlign="middle">
+      <relation target="" sidePair="left-left,top-top"/>
+    </loader>
   </displayList>
 </component>

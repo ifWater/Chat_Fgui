@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="650,398" designImageOffsetY="-247" designImageAlpha="55">
+  <displayList>
+    <image id="n5_kvqv" name="n5" src="yu9017" fileName="or拷贝2.png" xy="78,5" size="520,388">
+      <relation target="n1_cqnz" sidePair="bottomext-bottom"/>
+    </image>
+    <component id="n4_pdoa" name="n4" src="pdoax" fileName="headIcon.xml" pkg="2173kvu5" xy="14,343">
+      <relation target="n5_kvqv" sidePair="bottom-bottom"/>
+    </component>
+    <list id="n1_cqnz" name="n1" xy="121,80" size="432,292" margin="5,0,5,0" lineGap="23" defaultItem="ui://qyikjfyocqnz8" autoClearItems="true">
+      <relation target="n2_cqnz" sidePair="top-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <loader id="n2_cqnz" name="n2" xy="109,25" size="453,39" fill="scaleFree"/>
+  </displayList>
+  <relation target="n1_cqnz" sidePair="bottomext-bottom"/>
+</component>

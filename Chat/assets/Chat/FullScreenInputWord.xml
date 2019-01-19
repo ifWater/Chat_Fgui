@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,985">
+  <displayList>
+    <image id="n2_xr6m" name="n2" src="xr6m1o" fileName="FS6.png" xy="0,64" size="750,521" alpha="0">
+      <relation target="n0_e3c9" sidePair="bottom-bottom,height-height"/>
+    </image>
+    <text id="n0_e3c9" name="n0" xy="15,81" size="708,492" fontSize="32" vAlign="middle" leading="19" ubb="true" autoSize="height" bold="true" autoClearText="true" text="You are sailing on the sea on a tourist flight. Suddenly the storm came. You passed out on the deck. When you wake up, you hold a piece of wood. There is a woman and a man by your side. The identity of a woman. Is a killer, the life of a man&#xA;ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss">
+      <relation target="" sidePair="center-center,bottom-middle"/>
+    </text>
+    <text id="n3_xr6m" name="n3" xy="43,788" size="653,67" group="n7_xr6m" input="true" fontSize="30" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="sssss"/>
+    <loader id="n4_xr6m" name="n4" xy="37,886" size="676,71" group="n7_xr6m" url="ui://qyikjfyoxr6m1l"/>
+    <image id="n5_xr6m" name="n5" src="xr6m1j" fileName="FS1.png" xy="216,722" group="n7_xr6m"/>
+    <image id="n6_xr6m" name="n6" src="xr6m1k" fileName="FS2.png" xy="36,786" group="n7_xr6m"/>
+    <group id="n7_xr6m" name="n7" xy="36,722" size="677,235" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

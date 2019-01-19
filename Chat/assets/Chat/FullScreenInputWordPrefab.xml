@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://qds4urarn1zb1n" designImageLayer="1">
+  <displayList>
+    <image id="n4_n1zb" name="n4" src="n1zb1v" fileName="wh.png" xy="0,426" size="750,907" visible="false">
+      <relation target="n3_xr6m" sidePair="topext-top"/>
+    </image>
+    <text id="n1_e3c9" name="n1" xy="21,422" size="708,370" fontSize="32" align="center" vAlign="middle" leading="19" autoSize="none" bold="true" text="You are sailing on the ">
+      <relation target="" sidePair="center-center,bottom-middle"/>
+    </text>
+    <text id="n3_xr6m" name="n3" xy="21,422" size="708,473" fontSize="32" leading="19" ubb="true" autoSize="height" bold="true" autoClearText="true" text="Yen you wake up, you hold a piece of wood. There is a woman and a man by your side. The identity of a woman. Is a killer, the life of a man&#xA;ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss">
+      <relation target="" sidePair="center-center,bottom-middle"/>
+    </text>
+    <text id="n5_n1zb" name="n5" xy="44,1026" size="653,67" group="n9_n1zb" input="true" fontSize="30" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="sssss"/>
+    <loader id="n6_n1zb" name="n6" xy="36,1124" size="676,71" group="n9_n1zb" url="ui://qyikjfyoxr6m1l"/>
+    <image id="n7_n1zb" name="n7" src="xr6m1j" fileName="FS1.png" xy="216,960" group="n9_n1zb"/>
+    <image id="n8_n1zb" name="n8" src="xr6m1k" fileName="FS2.png" xy="36,1024" group="n9_n1zb"/>
+    <group id="n9_n1zb" name="n9" xy="36,960" size="677,235" advanced="true"/>
+  </displayList>
+</component>

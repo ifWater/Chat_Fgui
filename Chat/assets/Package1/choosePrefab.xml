@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="91,50" extention="Button" designImageOffsetX="-47" designImageOffsetY="-219">
+<component size="108,50" extention="Button" designImageOffsetX="-47" designImageOffsetY="-219">
   <displayList>
-    <text id="n3_hcy6" name="n3" xy="44,22" pivot="0.5,0.5" anchor="true" size="74,44" fontSize="34" color="#ffffff" bold="true" autoClearText="true" text="New">
+    <text id="n3_hcy6" name="n3" xy="52,22" pivot="0.5,0.5" anchor="true" size="91,52" font="Arial Black" fontSize="34" color="#ffffff" bold="true" autoClearText="true" text="New">
       <relation target="" sidePair="center-center"/>
     </text>
-    <image id="n5_s6a2" name="n5" src="s6a2b" fileName="line.png" xy="7,46" size="76,2">
-      <relation target="" sidePair="center-center"/>
+    <image id="n5_s6a2" name="n5" src="afqty" fileName="line.png" xy="15,43" size="76,5">
+      <relation target="n3_hcy6" sidePair="center-center"/>
     </image>
   </displayList>
   <Button/>

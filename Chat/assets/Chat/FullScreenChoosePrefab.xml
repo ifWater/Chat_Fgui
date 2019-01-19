@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="710,1126">
+<component size="750,910">
   <displayList>
-    <list id="n0_e3c9" name="n0" xy="161,388" size="432,292" margin="5,0,5,0" lineGap="23" defaultItem="ui://qyikjfyocqnz8" autoClearItems="true">
-      <relation target="n1_e3c9" sidePair="top-bottom"/>
-      <item/>
+    <list id="n0_e3c9" name="n0" xy="31,463" size="690,420" overflow="scroll" margin="5,0,5,0" lineGap="24" colGap="40" defaultItem="ui://qyikjfyoxr6m1s" align="center" vAlign="middle" autoClearItems="true">
+      <relation target="" sidePair="center-center%,bottom-bottom%"/>
+      <relation target="" sidePair="width-width%,height-height%"/>
       <item/>
       <item/>
       <item/>
     </list>
-    <text id="n1_e3c9" name="n1" xy="149,333" size="453,39" fontSize="30" color="#ffffff" leading="6" autoSize="height" text="HelloWord"/>
+    <text id="n3_xr6m" name="n3" xy="54,24" size="674,424" fontSize="44" color="#696969" vAlign="middle" leading="19" autoSize="shrink" bold="true" autoClearText="true" text="Y'sou are sailing on the sea on a tourist flight. Suddenly the storm came. You passed out on' the deck. When you wake up, you hold a piece of wood. There is a woman and a man by your side. The identity of a woman. Is a killer, the life of a man&#xA;ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss">
+      <relation target="" sidePair="center-center%,top-top%"/>
+      <relation target="" sidePair="width-width%,height-height%"/>
+    </text>
   </displayList>
 </component>

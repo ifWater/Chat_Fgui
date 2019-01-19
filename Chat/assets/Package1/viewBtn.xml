@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="345,525" extention="Button" designImage="ui://qds4urarkvqvx" designImageOffsetX="-385" designImageOffsetY="-329" bgColor="#669900">
+<component size="345,525" extention="Button" designImageOffsetX="-385" designImageOffsetY="-329" bgColor="#669900">
   <displayList>
-    <loader id="n0_hcy6" name="n0" xy="0,0" size="345,525" url="ui://qds4urarjdhq1" fill="scaleFree">
+    <loader id="n0_hcy6" name="n0" xy="0,0" size="345,525" fill="scaleFree">
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
     <image id="n5_s6a2" name="n5" src="s6a29" fileName="EYE.png" xy="91,460" size="161,32"/>
     <text id="n4_hcy6" name="n4" xy="138,463" size="107,28" fontSize="21" color="#cccccc" align="center" vAlign="middle" autoSize="none" autoClearText="true" text="6"/>
+    <text id="n6_afqt" name="n6" xy="18,405" size="300,44" font="Arial Rounded MT Bold" fontSize="35" color="#ffffff" align="center" vAlign="middle" bold="true" text="How Did You Die">
+      <relation target="n5_s6a2" sidePair="center-center%,bottom-top%"/>
+    </text>
+    <image id="n7_fdz5" name="n7" src="fdz512" fileName="NEW.png" xy="0,0" group="n9_fdz5"/>
+    <image id="n8_fdz5" name="n8" src="fdz513" fileName="NEW1.png" xy="27,14" group="n9_fdz5"/>
+    <group id="n9_fdz5" name="n9" xy="0,0" size="110,57" advanced="true" collapsed="true">
+      <relation target="" sidePair="top-top%,left-left%"/>
+    </group>
+    <image id="n10_fdz5" name="n10" src="fdz510" fileName="HOT.png" xy="0,0" group="n12_fdz5"/>
+    <image id="n11_fdz5" name="n11" src="fdz511" fileName="HOT1.png" xy="26,16" group="n12_fdz5"/>
+    <group id="n12_fdz5" name="n12" xy="0,0" size="110,57" advanced="true" collapsed="true">
+      <relation target="" sidePair="top-top%,left-left%"/>
+    </group>
   </displayList>
   <Button/>
 </component>

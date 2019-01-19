@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,910" designImage="ui://qds4urarxif71p" designImageOffsetY="-426">
+  <displayList>
+    <image id="n9_afqt" name="n9" src="afqt21" fileName="do.png" xy="0,0" size="750,910">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n4_cnbm" name="n4" xy="37,659" size="676,71" url="ui://qyikjfyoxr6m1l" fill="scaleFree">
+      <relation target="" sidePair="center-center%,top-top%"/>
+    </loader>
+    <image id="n5_cnbm" name="n5" src="xr6m1j" fileName="FS1.png" xy="216,495">
+      <relation target="n4_cnbm" sidePair="center-center%,bottom-top%"/>
+    </image>
+    <text id="n10_afqt" name="n10" xy="23,156" size="686,298" font="SimHei" fontSize="30" color="#696969" leading="8" autoSize="shrink" autoClearText="true" text="You are sailing on the sea">
+      <relation target="" sidePair="width-width%,height-height%"/>
+      <relation target="n11_xif7" sidePair="center-center%,top-bottom%"/>
+    </text>
+    <image id="n6_cnbm" name="n6" src="afqt24" fileName="SRK.png" xy="36,559">
+      <relation target="n4_cnbm" sidePair="center-center%,bottom-top%"/>
+    </image>
+    <text id="n3_cnbm" name="n3" xy="44,561" size="653,67" input="true" fontSize="30" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="sssss">
+      <relation target="n4_cnbm" sidePair="center-center%,bottom-top%"/>
+    </text>
+    <richtext id="n11_xif7" name="n11" xy="21,28" size="696,107" fontSize="40" leading="7" autoSize="none" bold="true" text="What are the five things you will happen in 2019?">
+      <relation target="" sidePair="width-width%,height-height%"/>
+      <relation target="" sidePair="center-center%,top-top%"/>
+    </richtext>
+  </displayList>
+  <transition name="t0" autoPlayRepeat="-1">
+    <item time="0" type="Shake" target="n6_cnbm" value="12,1"/>
+  </transition>
+</component>

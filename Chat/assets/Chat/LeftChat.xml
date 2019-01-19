@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="650,98" designImageOffsetX="-6" designImageOffsetY="-250">
+<component size="650,145" designImageOffsetX="-6" designImageOffsetY="-250">
   <displayList>
-    <component id="n2_pdoa" name="n2" src="pdoax" fileName="headIcon.xml" pkg="2173kvu5" xy="14,42">
+    <component id="n2_pdoa" name="n2" src="pdoax" fileName="headIcon.xml" pkg="2173kvu5" xy="14,89">
       <relation target="n3_kvqv" sidePair="bottom-bottom"/>
     </component>
-    <image id="n3_kvqv" name="n3" src="yu9017" fileName="or拷贝2.png" xy="78,8" size="524,84">
+    <image id="n3_kvqv" name="n3" src="yu9017" fileName="or拷贝2.png" xy="78,8" size="524,131">
       <relation target="n1_cqnz" sidePair="height-height"/>
     </image>
-    <text id="n1_cqnz" name="n1" xy="109,37" size="456,39" fontSize="30" color="#ffffff" leading="6" autoSize="height" autoClearText="true" text="Myssssss"/>
+    <text id="n1_cqnz" name="n1" xy="109,37" size="456,86" fontSize="30" color="#ffffff" leading="6" autoSize="height" autoClearText="true" text="Myssssss撒顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶&#xA;"/>
   </displayList>
   <relation target="n1_cqnz" sidePair="height-height"/>
 </component>

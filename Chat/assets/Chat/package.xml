@@ -2,7 +2,7 @@
 <packageDescription id="qyikjfyo" jpegQuality="80" compressPNG="true">
   <resources>
     <component id="cqnz0" name="ChatWnd.xml" path="/" exported="true"/>
-    <image id="cqnz2" name="n0.png" path="/" exported="true"/>
+    <image id="cqnz2" name="n0.png" path="/" exported="true" scale="9grid" scale9grid="188,30,376,60" gridTile="31"/>
     <component id="cqnz3" name="clickBtn.xml" path="/" exported="true"/>
     <component id="cqnz4" name="LeftChat.xml" path="/" exported="true"/>
     <component id="cqnz5" name="RightChat.xml" path="/" exported="true"/>
@@ -12,7 +12,6 @@
     <image id="cqnzf" name="bg.png" path="/" exported="true" scale="9grid" scale9grid="188,334,376,668" gridTile="28"/>
     <image id="cqnzg" name="logo.png" path="/" exported="true"/>
     <image id="cqnzi" name="JIA.png" path="/" exported="true"/>
-    <image id="cqnzj" name="FH.png" path="/" exported="true"/>
     <component id="cqnzn" name="addBtn.xml" path="/" exported="true"/>
     <component id="s6a2u" name="QuestionState.xml" path="/" exported="true"/>
     <component id="s6a2v" name="returnLast.xml" path="/" exported="true"/>
@@ -32,6 +31,48 @@
     <image id="khav1e" name="sr.png" path="/" exported="true"/>
     <component id="e3c91f" name="FullScreenWord.xml" path="/" exported="true"/>
     <component id="e3c91g" name="FullScreenChoosePrefab.xml" path="/" exported="true"/>
+    <component id="ppdx1h" name="SpriteChoosePrefab.xml" path="/" exported="true"/>
+    <component id="ppdx1i" name="FSPrefabSpriteChoose.xml" path="/" exported="true"/>
+    <image id="xr6m1j" name="FS1.png" path="/" exported="true"/>
+    <image id="xr6m1k" name="FS2.png" path="/" exported="true"/>
+    <image id="xr6m1l" name="FS3.png" path="/" exported="true"/>
+    <image id="xr6m1n" name="FS5.png" path="/" exported="true"/>
+    <image id="xr6m1o" name="FS6.png" path="/" exported="true"/>
+    <image id="xr6m1p" name="FS8.png" path="/" exported="true" scale="9grid" scale9grid="31,18,620,36" gridTile="31"/>
+    <image id="xr6m1q" name="FS7.png" path="/" exported="true" scale="9grid" scale9grid="21,16,630,37" gridTile="31"/>
+    <component id="xr6m1s" name="FSBtnBig.xml" path="/" exported="true"/>
+    <component id="xr6m1t" name="FSBtnLit.xml" path="/" exported="true"/>
+    <component id="cnbm1u" name="FSInputWordPrefab.xml" path="/" exported="true"/>
+    <image id="afqt1v" name="gray.png" path="/" exported="true" scale="9grid" scale9grid="24,12,625,45" gridTile="31"/>
+    <image id="afqt20" name="xuanzhong.png" path="/" exported="true" scale="9grid" scale9grid="26,23,628,27" gridTile="3"/>
+    <image id="afqt21" name="do.png" path="/" exported="true" scale="" scale9grid="188,12,376,30" gridTile="29"/>
+    <image id="afqt24" name="SRK.png" path="/" exported="true" scale="9grid" scale9grid="39,18,597,36" gridTile="19"/>
+    <image id="s6xw25" name="back.png" path="/" exported="true"/>
+    <image id="s6xw28" name="waitTip.png" path="/" exported="true"/>
+    <image id="s6xwe" name="hm.png" path="/" exported="true"/>
+    <component id="s6xw29" name="ShareCom.xml" path="/" exported="true"/>
+    <image id="s6xw2a" name="you.png" path="/" exported="true"/>
+    <image id="khava" name="b1(1).png" path="/" exported="true"/>
+    <image id="khav8" name="b2.png" path="/" exported="true"/>
+    <image id="s6xw2b" name="FS10.png" path="/" exported="true"/>
+    <image id="s6xw2c" name="FS9.png" path="/" exported="true"/>
+    <component id="dfu52d" name="FSChooseBoxPrefab.xml" path="/" exported="true"/>
+    <image id="dfu52n" name="CBP2.png" path="/"/>
+    <image id="dfu52o" name="CBP.png" path="/"/>
+    <image id="dfu52p" name="sanjiao.png" path="/"/>
+    <component id="dfu52q" name="ChooseBox.xml" path="/" exported="true"/>
+    <image id="cg4w33" name="10.png" path="/" exported="true"/>
+    <image id="cg4w34" name="11.png" path="/" exported="true"/>
+    <image id="cg4w35" name="12.png" path="/" exported="true"/>
+    <image id="cg4w36" name="1.png" path="/" exported="true"/>
+    <image id="cg4w37" name="2.png" path="/" exported="true"/>
+    <image id="cg4w38" name="3.png" path="/" exported="true"/>
+    <image id="cg4w39" name="4.png" path="/" exported="true"/>
+    <image id="cg4w3a" name="5.png" path="/" exported="true"/>
+    <image id="cg4w3b" name="6.png" path="/" exported="true"/>
+    <image id="cg4w3c" name="7.png" path="/" exported="true"/>
+    <image id="cg4w3d" name="8.png" path="/" exported="true"/>
+    <image id="cg4w3e" name="9.png" path="/" exported="true"/>
   </resources>
   <publish name="Chat"/>
 </packageDescription>

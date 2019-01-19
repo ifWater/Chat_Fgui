@@ -12,7 +12,7 @@
       <relation target="n1_pdoa" sidePair="middle-middle,center-center"/>
     </image>
     <group id="n4_khav" name="n4" xy="258,582" size="233,178" advanced="true">
-      <relation target="n3_yu90" sidePair="center-center,middle-middle"/>
+      <relation target="n3_yu90" sidePair="center-center%,middle-middle%"/>
     </group>
   </displayList>
 </component>

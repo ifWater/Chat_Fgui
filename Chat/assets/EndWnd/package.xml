@@ -3,8 +3,10 @@
   <resources>
     <component id="sy980" name="EndWnd.xml" path="/" exported="true"/>
     <component id="pdoa1" name="ShareWnd.xml" path="/" exported="true"/>
-    <image id="khav8" name="b2.png" path="/" exported="true"/>
-    <image id="khava" name="b1(1).png" path="/" exported="true"/>
+    <image id="xr6mc" name="you.png" path="/" exported="true"/>
+    <image id="afqtd" name="FH.png" path="/" exported="true"/>
+    <component id="ppdxb" name="ShareCom.xml" path="/" exported="true"/>
+    <component id="s6xwf" name="viewBtn.xml" path="/" exported="true"/>
   </resources>
   <publish name="EndWnd"/>
 </packageDescription>

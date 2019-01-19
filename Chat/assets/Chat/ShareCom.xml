@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="740,1134" overflow="hidden">
+  <displayList>
+    <loader id="n0_ppdx" name="n0" xy="63,144" pivot="0.5,0.5" size="645,642" fill="scaleFree"/>
+    <loader id="n1_ppdx" name="n1" xy="68,828" size="636,88" url="ui://qyikjfyokhava">
+      <relation target="n0_ppdx" sidePair="top-bottom%"/>
+      <relation target="" sidePair="center-center%"/>
+    </loader>
+    <loader id="n2_ppdx" name="n2" xy="187,938" size="397,75" url="ui://qyikjfyokhav8">
+      <relation target="n1_ppdx" sidePair="top-bottom%"/>
+      <relation target="" sidePair="center-center%"/>
+    </loader>
+    <image id="n3_xr6m" name="n3" src="s6xw2a" fileName="you.png" xy="0,1042" size="740,85">
+      <relation target="n2_ppdx" sidePair="top-bottom%"/>
+    </image>
+  </displayList>
+  <relation target="n0_ppdx" sidePair="bottomext-bottom"/>
+</component>
